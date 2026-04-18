@@ -1,3 +1,5 @@
+Nazwa projektu: Jutra
+
 Architektura Chrono-Self: Synteza Psychologii Rozwojowej i Generatywnej Sztucznej Inteligencji w Modelowaniu Ciągłości Przyszłego "Ja" u Nastolatków
 ====================================================================================================================================================
 
